@@ -20,5 +20,5 @@ collections:
         widget: "datetime"
       - label: "Body"
         name: "body"
-        widget: "markdown"    
+        widget: "markdown"
 
